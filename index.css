@@ -140,7 +140,7 @@ body{
     width: 30.0rem;
     border-radius: 25.0rem;
     text-align: left;
-    background-image: url("my.jpeg");
+    background-image: url("my.jpg");
     background-repeat: no-repeat;
     background-size: 31.0rem 31.0rem;
     margin-left: 8.0rem;
@@ -154,7 +154,7 @@ body{
         width: 20.0rem;
         border-radius: 17.0rem;
         text-align: center;
-        background-image: url("my.jpeg");
+        background-image: url("my.jpg");
         background-repeat: no-repeat;
         background-size: 21.0rem 21.0rem;
         margin-left: 40%;
